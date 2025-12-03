@@ -34,7 +34,11 @@ The goal of this project is to:
 
 &nbsp;
 
-This repo contains the full workflow demonstrating Git version control concepts.This project demonstrates version control workflows and this document will help to understand the commands performed.
+This repo contains the full workflow demonstrating Git version control concepts.and this document will help to understand the commands performed.
+
+## Additional Notes
+This project demonstrates version control workflows and branch management.
+
 
 &nbsp;
 
